@@ -617,15 +617,19 @@ body {
 }
 
 #copy a {
-    text-decoration: none;
-    color: #191919d7;
+    text-decoration: underline;
+    color: #007bff;
+    cursor: pointer; 
+}
+
+#copy a:hover {
+    color: #0056b3;
 }
 
 #copy p {
     color: #ff3d5a;
     text-align: center;
     font-weight: 700;
-    cursor: pointer;
 }
 
 
