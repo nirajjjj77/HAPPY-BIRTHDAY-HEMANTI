@@ -228,6 +228,7 @@ body {
     padding: 0px 40px;
     bottom: -20px;
     border: 3px solid var(--color-black);
+    white-space: nowrap;
 }
 .date__of__birth span, .name span{
     font-weight: bold;
